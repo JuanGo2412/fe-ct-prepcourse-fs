@@ -66,10 +66,10 @@ function esImpar(num) {
    // De lo contrario, retorna false.
    // Tu código:
    if (num % 2 !=0) {
-      return false;
+      return true;
    }
    else {
-      return true;
+      return false;
    }
 }
 
